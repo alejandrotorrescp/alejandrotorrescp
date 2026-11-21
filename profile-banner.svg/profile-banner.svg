@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Automatización, datos e inteligencia artificial</title>
+  <desc id="desc">Banner tecnológico en tonos azul petróleo con circuitos y nodos geométricos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071827"/><stop offset=".55" stop-color="#103A4A"/><stop offset="1" stop-color="#116B68"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#59E1C5"/><stop offset="1" stop-color="#80C8FF"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#B9F7ED" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="26" fill="url(#bg)"/><rect width="1200" height="300" rx="26" fill="url(#grid)"/>
+  <circle cx="1040" cy="145" r="176" fill="none" stroke="#68E3C7" stroke-opacity=".12" stroke-width="2"/><circle cx="1040" cy="145" r="128" fill="none" stroke="#68E3C7" stroke-opacity=".2" stroke-width="2"/>
+  <g fill="none" stroke="url(#glow)" stroke-width="2" stroke-opacity=".82"><path d="M760 54h104v42h72v-29h95m-207 0v-35h145m-60 107h100v54h95m-216-54v66h-53v47h83m59-36h91v37h72m-259-37v-42h-62"/><path d="M870 230h-84v-37h-75m370-97h69v-43h40m-160 215h64v-38h77"/></g>
+  <g fill="#70E4CD"><circle cx="1040" cy="67" r="5"/><circle cx="1074" cy="174" r="5"/><circle cx="889" cy="257" r="5"/><circle cx="1117" cy="230" r="5"/><circle cx="1154" cy="47" r="5"/></g>
+  <path d="M70 74h8v152h-8z" fill="url(#glow)"/>
+  <text x="108" y="128" fill="#EAF8F7" font-family="Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="5" font-weight="600">INGENIERÍA · SOLUCIONES · MEJORA</text>
+  <text x="108" y="184" fill="#FFFFFF" font-family="Segoe UI,Arial,sans-serif" font-size="38" letter-spacing="1.5" font-weight="700">AUTOMATIZACIÓN / DATOS / IA</text>
+  <text x="108" y="222" fill="#A8D7D3" font-family="Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="2">INDUSTRIA · PROCESOS · INTERFACES</text>
+</svg>
