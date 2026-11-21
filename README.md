@@ -1,16 +1,19 @@
-## Hi there 👋
+# Christian Alejandro Pineda Torres
 
-<!--
-**alejandrotorrescp/alejandrotorrescp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingeniero Electrónico** · **Estudiante de Maestría en Ingeniería**  
+Bogotá, Colombia
 
-Here are some ideas to get you started:
+Me enfoco en la automatización industrial y de procesos, el diseño de interfaces gráficas y la aplicación de inteligencia artificial. También me interesan la gestión de procesos, el análisis de datos y el aseguramiento de la calidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interés
+
+- Automatización industrial y de procesos
+- Diseño de interfaces gráficas (GUI)
+- Inteligencia artificial
+- Gestión de procesos
+- Análisis de datos
+- Aseguramiento de la calidad
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/christian-alejandro-pineda-torres-028b43280/)
